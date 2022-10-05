@@ -1,0 +1,100 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "text": "1 RESIDENTIAL DESIGN",
+      "image": "https://i.postimg.cc/6q07GWg3/services-RE.jpg",
+      "description": "our specialists create geometrically correct and even surface, mostly without frills and additional accessories. the main task is not clutter up the room . the furniture set is limited to the ost functional and necessary sets",
+      "img_url": "https://i.postimg.cc/KYwtZYhh/services-R.jpg"
+    },
+    {
+      "id": 2,
+      "text": "2 TURNKEY DESIGN",
+      "image": "https://i.postimg.cc/K8gqSjWB/services-T.jpg",
+      "description": "We cooperate with leading construction companies and suppliers. We provide a service for the full implementationof a turnkey design project of any complexity. For Our Customers , we have favorable conditions from partners in the supply of materials and repair work ",
+      "img_url": "https://i.postimg.cc/mrsSvwCW/services-TUR.jpg"
+    },
+    {
+      "id": 3,
+      "text": "3 INTERIOR DESIGN FOR BUSINESS",
+      "image": "https://i.postimg.cc/xj4V9Dcy/services-O.jpg",
+      "description": "We develop projects of any compexity. Only high-quality materials with service life and wear resistance are used in the manufacture. The main featureismobility, so seamless inflatable furniture is very common, which is quitesimply transformed and move.",
+      "img_url": "https://i.postimg.cc/VLCp1Sym/services-OFF.jpg"
+    }
+  ],
+  "project":[
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/B6VpV10r/kitchen.jpg",
+      "text": "",
+      "category": "kitchen"
+    },
+    {
+      "id": 2,
+      "image": "https://i.postimg.cc/yNkhM88c/livingroom2.jpg",
+      "text": "",
+      "category": "livingroom"
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/ryb0KNg6/bedroom.jpg",
+      "text": "",
+      "category": "bedroom"
+    },
+    {
+      "id": 4,
+      "image": "https://i.postimg.cc/BnZXz7nK/office.jpg",
+      "text": "",
+      "category": "office"
+    },
+    {
+      "id": 5,
+      "image": "https://i.postimg.cc/vZyNw9J9/livingroom.jpg",
+      "text": "",
+      "category": "livingroom"
+    },
+    {
+      "id": 6,
+      "image": "https://i.postimg.cc/sgPvHdzy/bedroom1.jpg",
+      "text": "",
+      "category": "bedroom"
+    },
+    {
+      "id": 7,
+      "image": "https://i.postimg.cc/MZB3Fdnt/kitchen2.jpg",
+      "text": "",
+      "category": "kitchen"
+    },
+    {
+      "id": 8,
+      "image": "https://i.postimg.cc/sfpxgCBW/office1.jpg",
+      "text": "",
+      "category": "office"
+    },
+    {
+      "id": 9,
+      "image": "https://i.postimg.cc/4dtQ58Cn/bathroom-B.jpg",
+      "text": "",
+      "category": "bathroom"
+    },
+    {
+      "id": 10,
+      "image": "https://i.postimg.cc/L4ZCqNRL/livingroom1.jpg",
+      "text": "",
+      "category": "livingroom"
+    },
+    {
+      "id": 11,
+      "image": "https://i.postimg.cc/wxRnd9GX/kitchen1.jpg",
+      "text": "",
+      "category": "kitchen"
+    },
+
+    {
+      "id": 12,
+      "image": "https://i.postimg.cc/NG93hYtr/bathroom-A.jpg",
+      "text": "",
+      "category": "bathroom"
+    }  
+  ]
+}
