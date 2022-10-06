@@ -57,13 +57,13 @@
       "id": 6,
       "image": "https://i.postimg.cc/sgPvHdzy/bedroom1.jpg",
       "text": "",
-      "category": "bedroom"
+      "category": "bathroom"
     },
     {
       "id": 7,
-      "image": "https://i.postimg.cc/MZB3Fdnt/kitchen2.jpg",
+      "image": "https://i.postimg.cc/CLzVqvLw/bathroom-EX.jpg",
       "text": "",
-      "category": "kitchen"
+      "category": "bedroom"
     },
     {
       "id": 8,
@@ -89,12 +89,18 @@
       "text": "",
       "category": "kitchen"
     },
-
     {
       "id": 12,
       "image": "https://i.postimg.cc/NG93hYtr/bathroom-A.jpg",
       "text": "",
       "category": "bathroom"
-    }  
+    },
+    {
+      "id": 13,
+      "image": "https://i.postimg.cc/MZB3Fdnt/kitchen2.jpg",
+      "text": "",
+      "category": "kitchen"
+      
+    } 
   ]
 }
