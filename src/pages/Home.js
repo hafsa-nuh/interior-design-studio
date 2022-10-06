@@ -6,7 +6,6 @@ import Project from "./Project";
 import Testimonials from "./Testimonials";
 import Contact from "./Contact";
 
-
 function Home() {
   return <>
   <section className=" bg-green  rounded-2xl ml-2 ">
@@ -18,7 +17,6 @@ function Home() {
   <Contact/>
   </section> 
   </>
-  
 }
 
 export default Home
