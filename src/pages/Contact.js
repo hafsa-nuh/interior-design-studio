@@ -37,8 +37,8 @@ const Contact = () => {
                 );
               })}
             </div>
-          </div>
           <ContactForm />
+          </div>
         </div>
       </section>
     </>
