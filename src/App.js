@@ -8,6 +8,7 @@ import Project from './pages/Project';
 import Testimonials from './pages/Testimonials';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
+import BackToTopBtn from './components/BackToTopBtn';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer/>
+      <BackToTopBtn/>
       {/* <About/> */}
       {/* <Home /> */}
       {/* <div style={{ height: "2000px" }}></div> */}
