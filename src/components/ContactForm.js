@@ -40,7 +40,8 @@ function ContactForm() {
         .then((data)=>{
             const newUserInfo = [...userIfor, data]
             setFormInfo(newUserInfo)
-        })
+        });
+        e.target.reset()
     }
 
 

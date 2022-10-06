@@ -126,83 +126,29 @@
       "name": "Nemesis",
       "email": "hafsa.nuh@student.moringaschool.com",
       "subject": "kitchen",
-      "message": "qwertyhjklkjhgfdsahjk",
+      "message": "i want my kitchen remodaled ",
       "id": 2
     },
-    [
-      {
+    {
+      "0": {
         "id": 1,
         "name": "hafsa",
         "email": "hafsaabdulwahab@gmail.com",
         "subject": "bedroom",
         "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
       },
-      {
+      "1": {
         "name": "Nemesis",
         "email": "hafsa.nuh@student.moringaschool.com",
         "subject": "kitchen",
-        "message": "qwertyhjklkjhgfdsahjk",
+        "message": "i want my kitchen remodaled ",
         "id": 2
-      }
-    ],
-    [
-      {
-        "id": 1,
-        "name": "hafsa",
-        "email": "hafsaabdulwahab@gmail.com",
-        "subject": "bedroom",
-        "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
       },
-      [
-        {
-          "id": 1,
-          "name": "hafsa",
-          "email": "hafsaabdulwahab@gmail.com",
-          "subject": "bedroom",
-          "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
-        },
-        {
-          "name": "Nemesis",
-          "email": "hafsa.nuh@student.moringaschool.com",
-          "subject": "kitchen",
-          "message": "qwertyhjklkjhgfdsahjk",
-          "id": 2
-        }
-      ]
-    ],
-    [
-      {
-        "id": 1,
-        "name": "hafsa",
-        "email": "hafsaabdulwahab@gmail.com",
-        "subject": "bedroom",
-        "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
-      },
-      [
-        {
-          "id": 1,
-          "name": "hafsa",
-          "email": "hafsaabdulwahab@gmail.com",
-          "subject": "bedroom",
-          "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
-        },
-        [
-          {
-            "id": 1,
-            "name": "hafsa",
-            "email": "hafsaabdulwahab@gmail.com",
-            "subject": "bedroom",
-            "message": "I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
-          },
-          {
-            "name": "Nemesis",
-            "email": "hafsa.nuh@student.moringaschool.com",
-            "subject": "kitchen",
-            "message": "qwertyhjklkjhgfdsahjk",
-            "id": 2
-          }
-        ]
-      ]
-    ]
+      "name": "hali",
+      "email": "haliwhat@gmail.com",
+      "subject": "house",
+      "message": "so your paged liked what i sow can u remodal my house",
+      "id": 3
+    }
   ]
 }
