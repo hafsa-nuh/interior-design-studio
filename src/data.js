@@ -1,5 +1,12 @@
 //  icons
-import { FiMail, FiMapPin} from 'react-icons/fi';
+import {
+  FiYoutube,
+  FiFacebook,
+  FiTwitter,
+  FiInstagram,
+  FiMail,
+  FiMapPin,
+} from "react-icons/fi";
 
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
@@ -77,9 +84,20 @@ export const support=[
 ];
 
 export const icons = [
-  { name: "logo-facebook", link: "#" },
-  { name: "logo-facebook", link: "#" },
-  { name: "logo-facebook", link: "#" },
-  { name: "logo-facebook", link: "#" },
-  { name: "logo-facebook", link: "#" },
+  {
+    icon: <FiYoutube />,
+    href: "",
+  },
+  {
+    icon: <FiInstagram />,
+    href: "",
+  },
+  {
+    icon: <FiFacebook />,
+    href: "",
+  },
+  {
+    icon: <FiTwitter />,
+    href: "",
+  },
 ];
