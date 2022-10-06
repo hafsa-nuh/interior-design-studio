@@ -36,13 +36,13 @@ export const contact = [
   {
     icon: <FiMail />,
     title: 'Have a question?',
-    subtitle: 'I am here to help you.',
-    description: 'Email me at hello@youremail.com',
+    subtitle: 'We are here to help you.',
+    description: 'Email us at logocompony@gmail.com',
   },
   {
     icon: <FiMapPin />,
     title: 'Current Location',
-    subtitle: 'Bucharest, Romania',
+    subtitle: 'Nairobi, Kenya',
     description: 'Serving clients worldwide',
   },
 ];
