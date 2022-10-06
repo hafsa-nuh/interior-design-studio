@@ -12,20 +12,20 @@ function HomePage() {
       {
         id: 2,
         img: "https://i.postimg.cc/KYfw31PC/homepage6.jpg",
-        title: "Create your Space",
-        text: "investing in good interior design adds value in the long run. An interior designer is well aware of the types of fixtures, lighting, drapes, paint, sofa designs and carpeting that you should put in various parts of a house",
+        title: "Style to Sell Service",
+        text: "We work effectively with home sellers to present your property in the best light possible by strategically elevating its appeal so this can stand out from the competitors and promote a highly desirable lifestyle. As a result, you’ll have multiple viewings and begin to receive high-value offers from your ideal buyers faster than the national average of 108 days, allowing you to move onto your new chapter quickly and with certainty.",
       },
       {
         id: 3,
         img: "https://i.postimg.cc/Gtvgx90F/homepage7.jpg",
-        title: "Create your Space",
+        title: "Style to Sell",
         text: "investing in good interior design adds value in the long run. An interior designer is well aware of the types of fixtures, lighting, drapes, paint, sofa designs and carpeting that you should put in various parts of a house",
       },
       {
         id: 4,
         img: "https://i.postimg.cc/PqSL3RJV/homepage3.jpg",
-        title: "Create your Space",
-        text: "investing in good interior design adds value in the long run. An interior designer is well aware of the types of fixtures, lighting, drapes, paint, sofa designs and carpeting that you should put in various parts of a house",
+        title: "Residential Interior Design",
+        text: "We take pride in working collaboratively with our clients to create stunning interiors with your taste and individual needs at the centre of our design.Every project is unique as we want you to live comfortably.  ",
       },
     ];
 
