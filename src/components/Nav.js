@@ -1,6 +1,7 @@
 import styled from "styled-components";
-import { NavLink as Link } from "react-router-dom";
+import { NavLink as LinkR } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
+import {Link as LinkS} from "react-scroll"
 
 // this is where all my navbar styling happens
 export const Nav = styled.nav`
@@ -11,10 +12,14 @@ export const Nav = styled.nav`
   justify-content: space-between;
   // z-index: 10;
   border-radius: 40px;
+
+  @media screen and (max-width: 960px){
+    transition: 0.8s all ease;
+  }
 `;
 
 // this is the likes of the pages in our nav
-export const NavLink = styled(Link)`
+export const NavLink = styled(LinkR)`
   color: #fff;
   display: flex;
   align-items: center;
