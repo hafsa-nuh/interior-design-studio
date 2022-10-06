@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
-import About from "./About"
-
-
+// import About from "./About"
 
 function Home() {
   const slides = [
