@@ -46,19 +46,21 @@ function ContactForm() {
 
   return (
     <>
-      <form className="space-y-8 w-full max-w-[780px]" onChange={handleChange} >
+      <form className="space-y-8 w-full max-w-[780px]" onSubmit={handleSubmit}>
         <div className="flex gap-8">
           <input
             name="name"
             className="input"
             type="text"
             placeholder="Your name"
+            onChange={handleChange}
           />
           <input
             name="email"
             className="input"
             type="email"
             placeholder="Your email"
+            onChange={handleChange}
           />
         </div>
         <input
@@ -66,13 +68,18 @@ function ContactForm() {
           className="input"
           type="text"
           placeholder="Subject"
+          onChange={handleChange}
         />
         <textarea
           name="message"
           className="textarea"
           placeholder="Your message"
+          onChange={handleChange}
         ></textarea>
-        <button type='submit' onSubmit={handleSubmit} className="btn btn-lg bg-accent hover:bg-secondary-hover">
+        <button
+          type="submit"
+          className="btn btn-lg bg-accent hover:bg-secondary-hover"
+        >
           Send message
         </button>
       </form>
