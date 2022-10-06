@@ -44,7 +44,6 @@ function ContactForm() {
         e.target.reset()
     }
 
-
   return (
     <>
       <form className="space-y-8 w-full max-w-[780px]" onSubmit={handleSubmit}>
