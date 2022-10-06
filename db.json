@@ -114,5 +114,15 @@
       "text": "",
       "category": "bedroom"
     }  
+  ],
+  "userinfo":[
+    {
+      "id": 1,
+      "name": "hafsa",
+      "email": "hafsaabdulwahab@gmail.com",
+      "subject": "bedroom",
+      "message":"I want modern bedroom design,Let’s face it, a modern bedroom design can easily impress. It is not only elegant and modern, the simplicity of a modern space promotes a sense of calm"
+    }
   ]
+
 }
