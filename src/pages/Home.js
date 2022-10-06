@@ -68,21 +68,23 @@ function Home() {
   return (
     <>
       <main style={{ marginRight: "10px" }}>
-        <section
-          className=" flex items-center bg-green lg:bg-no-repeat py-32 h-auto rounded-2xl ml-2 "
-        >
+        <section className=" flex items-center bg-green lg:bg-no-repeat py-32 h-auto rounded-2xl ml-2 ">
           <div className="container mx-auto ">
             <div className="flex items-center  ">
               <div className="flex-1  ">
                 <h1 className="text-4xl leading-[44px] md:text-5xl  lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
                   {title}
                 </h1>
-                <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">
+                <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left text-accent">
                   {text}
                 </p>
               </div>
               <div className=" lg:flex flex-1 justify-end items-end ">
-                <img className="rounded-2xl h-96 mr-32 w-full " src={img} alt="" />
+                <img
+                  className="rounded-2xl h-96 mr-32 w-full "
+                  src={img}
+                  alt=""
+                />
               </div>
             </div>
             <div style={slider}>
