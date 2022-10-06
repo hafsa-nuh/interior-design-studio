@@ -53,6 +53,13 @@ const About = () => {
                   Odit, praesentium, quibusdam quod est quas facilis nobis
                   reprehenderit dolore veritatis dicta quos esse iste debitis
                   soluta corrupti! Doloribus blanditiis inventore illum!
+                  <br />
+                  <br />
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Quibusdam totam eligendi ipsum officiis error tempore nisi
+                  neque beatae delectus tenetur, quas expedita possimus
+                  distinctio sapiente repellendus itaque accusantium molestias
+                  aspernatur.
                 </p>
                 <hr className="mb-8 opacity-5" />
                 <img
