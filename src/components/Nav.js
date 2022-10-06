@@ -1,7 +1,7 @@
 import styled from "styled-components";
-import { NavLink as LinkR } from "react-router-dom";
+import { NavLink as Link } from "react-router-dom";
 import { FaBars } from "react-icons/fa";
-import {Link as LinkS} from "react-scroll"
+
 
 // this is where all my navbar styling happens
 export const Nav = styled.nav`
@@ -19,7 +19,7 @@ export const Nav = styled.nav`
 `;
 
 // this is the likes of the pages in our nav
-export const NavLink = styled(LinkR)`
+export const NavLink = styled(Link)`
   color: #fff;
   display: flex;
   align-items: center;

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Nav, NavLink, Bars, NavMenu } from "./Nav";
+import Slidebar from "./Slidebar";
 
 const Header = () => {
   const [bg, setBg] = useState(false);
@@ -19,7 +20,7 @@ const Header = () => {
         <NavLink to="">
           <h1>LOGO</h1>
         </NavLink>
-        <Bars />
+        {/* <Bars /> */}
         <NavMenu>
           <NavLink to="/" activestyle="true">
             Home
@@ -40,6 +41,7 @@ const Header = () => {
             Contact
           </NavLink>
         </NavMenu>
+      <Slidebar/>
       </Nav>
     </header>
   );
