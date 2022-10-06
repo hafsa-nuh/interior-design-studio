@@ -13,7 +13,7 @@ function HomePage() {
         id: 2,
         img: "https://i.postimg.cc/KYfw31PC/homepage6.jpg",
         title: "Style to Sell Service",
-        text: "We work effectively with home sellers to present your property in the best light possible by strategically elevating its appeal so this can stand out from the competitors and promote a highly desirable lifestyle. As a result, you’ll have multiple viewings and begin to receive high-value offers from your ideal buyers faster than the national average of 108 days, allowing you to move onto your new chapter quickly and with certainty.",
+        text: "We work effectively with home sellers to present your property in the best light possible by strategically elevating its appeal so this can stand out from the competitors and promote a highly desirable lifestyle. ",
       },
       {
         id: 3,
