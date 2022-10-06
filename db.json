@@ -55,15 +55,15 @@
     },
     {
       "id": 6,
-      "image": "https://i.postimg.cc/sgPvHdzy/bedroom1.jpg",
+      "image": "https://i.postimg.cc/T3sSXGrb/kitchen-EX.jpg",
       "text": "",
-      "category": "bathroom"
+      "category": "kitchen"
     },
     {
       "id": 7,
       "image": "https://i.postimg.cc/CLzVqvLw/bathroom-EX.jpg",
       "text": "",
-      "category": "bedroom"
+      "category": "bathroom"
     },
     {
       "id": 8,
@@ -79,9 +79,9 @@
     },
     {
       "id": 10,
-      "image": "https://i.postimg.cc/L4ZCqNRL/livingroom1.jpg",
+      "image": "https://i.postimg.cc/x1PCsxHB/bedroom-EX.jpg",
       "text": "",
-      "category": "livingroom"
+      "category": "bedroom"
     },
     {
       "id": 11,
@@ -100,7 +100,19 @@
       "image": "https://i.postimg.cc/MZB3Fdnt/kitchen2.jpg",
       "text": "",
       "category": "kitchen"
+    },
+    {
+      "id": 14,
+      "image": "https://i.postimg.cc/L4ZCqNRL/livingroom1.jpg",
+      "text": "",
+      "category": "livingroom"
       
-    } 
+    },
+    {
+      "id": 15,
+      "image": "https://i.postimg.cc/sgPvHdzy/bedroom1.jpg",
+      "text": "",
+      "category": "bedroom"
+    }  
   ]
 }
