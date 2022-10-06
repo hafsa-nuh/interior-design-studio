@@ -46,3 +46,40 @@ export const contact = [
     description: 'Serving clients worldwide',
   },
 ];
+
+// footer
+export const product= [
+  {name: "logo", link:"#"},
+  {name: "logo", link:"#"},
+  {name: "logo", link:"#"}
+];
+export const resources = [
+  { name: "logo", link: "#" },
+  { name: "logo", link: "#" },
+  { name: "logo", link: "#" },
+  { name: "logo", link: "#" },
+  { name: "logo", link: "#" }
+];
+
+export const company = [
+  { name: "Diversity & inclusion", link: "#" },
+  { name: "About us", link: "#" },
+  { name: "About us", link: "#" },
+  { name: "About us", link: "#" },
+  { name: "About us", link: "#" }
+];
+
+export const support=[
+  {name:'customer care', link:'#'},
+  {name:'customer care', link:'#'},
+  {name:'customer care', link:'#'},
+  {name:'customer care', link:'#'}
+];
+
+export const icons = [
+  { name: "logo-facebook", link: "#" },
+  { name: "logo-facebook", link: "#" },
+  { name: "logo-facebook", link: "#" },
+  { name: "logo-facebook", link: "#" },
+  { name: "logo-facebook", link: "#" },
+];

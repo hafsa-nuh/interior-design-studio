@@ -7,6 +7,7 @@ import Services from './pages/Services';
 import Project from './pages/Project';
 import Testimonials from './pages/Testimonials';
 import Contact from './pages/Contact';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -20,9 +21,10 @@ const App = () => {
         <Route path="/testimonial" element={<Testimonials />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
+      <Footer/>
       {/* <About/> */}
       {/* <Home /> */}
-      <div style={{ height: "2000px" }}></div>
+      {/* <div style={{ height: "2000px" }}></div> */}
     </div>
   );
 };
