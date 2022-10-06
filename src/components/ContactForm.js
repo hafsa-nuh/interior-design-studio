@@ -39,7 +39,8 @@ function ContactForm() {
         .then(r=> r.json())
         .then((data)=>{
             const newUserInfo = [...userIfor, data]
-            setFormInfo(newUserInfo)
+            // console.log(newUserInfo)
+            setUserIfo(newUserInfo)
         });
         e.target.reset()
     }
