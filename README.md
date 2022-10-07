@@ -31,7 +31,7 @@ open browser by running npm start
 *  db.json
 
 ## db.json
-to create a localhost start with {} then "" inside the strings write your object name then : []
+to create a localhost start with { } then " " inside the strings write your object name then : [ ]
 ```bash
 npm i json-server
 json-server --watch db.json
