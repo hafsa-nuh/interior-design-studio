@@ -1,7 +1,7 @@
 ## Interior Design Studio
 
 
-##Author
+## Author
 
 Hafsa Nuh
 
