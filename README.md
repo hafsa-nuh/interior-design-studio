@@ -38,9 +38,10 @@ json-server --watch db.json
 ```
 
 ## Features
--project navbar
--swiper
--form for message
+
+* project navbar
+* swiper
+* form for message
 
 # How to deploy apps for free
 Deploying single react applications using Heroku and Vercel
