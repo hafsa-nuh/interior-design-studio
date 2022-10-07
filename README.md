@@ -78,8 +78,9 @@ git push heroku main
 1) Create a Vercel account.
 2) Linking GitHub
 3) Continue with GitHub
-4) Choose the repo to deploy
-5) Diploy
+4) Add GitHub account
+5) Choose the repo to deploy
+6) Diploy
 
 ## LIVE SITE
 View [LIVE](https://interior-design-studio.vercel.app/):
