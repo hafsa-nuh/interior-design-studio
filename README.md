@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+## Interior Design Studio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##Author
 
-In the project directory, you can run:
+Hafsa Nuh
 
-### `npm start`
+## PROJECT DESCRIPTION
+This Website is based on an interior design studio , for home, offices, hotels . The user can smoothly scroll throughtout the pages, can easly veiw the projects per category . The User can send message to Us.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## SETUP
+to access  this project on your local files, you can clone it using this steps
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+  Open the Terminal
 
-### `npm test`
+Clone the repository:git@github.com:hafsa-nuh/interior-design-studio.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Change Directory: cd interior-design-studio
 
-### `npm run build`
+npm install
+nvm install --lts
+open browser by running npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies used
+* 1 JSX
+* 2 Tailwindcss
+* 3 Styled components
+* 4 db.json
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## db.json
+to create a localhost start with {} then "" inside the strings write your object name then : []
+```bash
+npm i json-server
+json-server --watch db.json
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
+-project navbar
+-swiper
+-form for message
 
-### `npm run eject`
+# How to deploy apps for free
+Deploying single react applications using Heroku and Vercel
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Single React App on Heroku
+1) Create a Heroku account.
+2) Create your app.
+3) Download Heroku CLI from [here](https://devcenter.heroku.com/articles/heroku-cli#download-and-install).
+4) Run these codes.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+heroku login
+```
+```bash
+git init
+```
+```bash
+heroku git:remote -a <app-name>
+```
+```bash
+heroku create -b https://github.com/mars/create-react-app-buildpack.git
+```
+```bash
+git add .
+```
+```bash
+git commit -am "my first commit"
+```
+```bash
+git push heroku main
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Single React App on Vercel
+1) Create a Vercel account.
+2) Linking GitHub
+3) Continue with GitHub
+4) Choose the repo to deploy
+5) Diploy
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## LIVE SITE
+View [LIVE](https://interior-design-studio.vercel.app/):
 
-## Learn More
+## LICENSE
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is under the [MIT](License) license.
