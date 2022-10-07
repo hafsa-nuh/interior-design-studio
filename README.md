@@ -19,7 +19,7 @@ Clone the repository:git@github.com:hafsa-nuh/interior-design-studio.git
 Change Directory: cd interior-design-studio
 
 npm install
-if u get
+if u get an error when running npm start ,then run
 nvm install --lts
 open browser by running npm start
 ```
