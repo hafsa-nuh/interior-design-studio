@@ -19,15 +19,16 @@ Clone the repository:git@github.com:hafsa-nuh/interior-design-studio.git
 Change Directory: cd interior-design-studio
 
 npm install
+if u get
 nvm install --lts
 open browser by running npm start
 ```
 
 ## Technologies used
-* 1 JSX
-* 2 Tailwindcss
-* 3 Styled components
-* 4 db.json
+*  JSX
+*  Tailwindcss
+*  Styled components
+*  db.json
 
 ## db.json
 to create a localhost start with {} then "" inside the strings write your object name then : []
