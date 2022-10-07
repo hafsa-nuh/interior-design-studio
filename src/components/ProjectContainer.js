@@ -9,7 +9,7 @@ function ProjectContainer() {
   const [object, setObject] = useState(0);
 
   useEffect(() => {
-    fetch(" http://localhost:3000/project")
+    fetch("https://peaceful-scrubland-62883.herokuapp.com/project")
       .then((r) => r.json())
       .then((data) => {
         if (project.name === "all") {

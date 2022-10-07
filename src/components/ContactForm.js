@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const url = "http://localhost:3000/userinfo";
+const url = "https://peaceful-scrubland-62883.herokuapp.com/userinfo";
 function ContactForm() {
     //  GET method
     const [userIfor, setUserIfo] = useState([])

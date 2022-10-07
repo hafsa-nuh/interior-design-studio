@@ -6,9 +6,9 @@ function Services() {
     // console.log(services)
     
     useEffect(()=>{
-        fetch("http://localhost:3000/services")
-        .then((r) => r.json())
-        .then((data) => setServices(data));
+        fetch("https://peaceful-scrubland-62883.herokuapp.com/services")
+          .then((r) => r.json())
+          .then((data) => setServices(data));
     },[])
 
   return <>
