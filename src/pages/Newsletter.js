@@ -9,7 +9,10 @@ const NewsContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-`
+  @media screen and (max-width: 768px) {
+    transition: 0.8s all ease;
+  }
+`;
 const Container = styled.div`
   width: 1100px;
   margin-left: 2rem;
@@ -18,7 +21,7 @@ const Container = styled.div`
   display: flex;
   border-radius: 26px;
   position: relative;
-  border: 2px solid #fff;
+  border: 2px solid #ac6b34;
   background-color: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(10px);
 `;
