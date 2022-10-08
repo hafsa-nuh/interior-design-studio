@@ -3,6 +3,7 @@ import HomePage from '../components/HomePage';
 import About from "./About";
 import Services from "./Services";
 import Project from "./Project";
+import Newsletter from './Newsletter';
 import Testimonials from "./Testimonials";
 import Contact from "./Contact";
 
@@ -13,6 +14,7 @@ function Home() {
   <About/>
   <Services/>
   <Project/>
+  <Newsletter/>
   <Testimonials/>
   <Contact/>
   </section> 
